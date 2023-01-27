@@ -1,0 +1,23 @@
+html {
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Segoe UI,
+    Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, sans-serif;
+  font-size: 12px;
+  overflow: hidden;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+.app {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+  width: 100vw;
+}
+/*# sourceMappingURL=main.7f0d8e49.css.map*/
