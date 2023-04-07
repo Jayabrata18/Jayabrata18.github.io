@@ -35840,7 +35840,7 @@
               display: 'Resume',
               aria: 'View my resume in Google Drive',
               icon: (0, c.jsx)(mt, {}),
-              href: 'https://drive.google.com/file/d/1LPgfZ_Wkfm2_-7crSo6UYNpACaAYKoc5/view?usp=sharing/',
+              href: 'https://drive.google.com/file/d/1GSD1GtS9dz-HEwgML2a_dKOfkHeyDTC-/view?usp=share_link/',
             },
             {
               display: 'Email',

@@ -1,6 +1,5 @@
 import type { ISourceOptions } from 'tsparticles';
 
-// https://github.com/matteobruni/tsparticles/issues/2771
 const options: ISourceOptions = {
   retinaDetect: true,
   fpsLimit: 90,

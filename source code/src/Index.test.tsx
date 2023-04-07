@@ -113,7 +113,7 @@ describe('application tests', () => {
       parent,
       child,
       /^Resume$/,
-      'https://drive.google.com/file/d/1LPgfZ_Wkfm2_-7crSo6UYNpACaAYKoc5/view?usp=sharing/'
+      'https://drive.google.com/file/d/1GSD1GtS9dz-HEwgML2a_dKOfkHeyDTC-/view?usp=share_link/'
     );
   });
 
